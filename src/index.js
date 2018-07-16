@@ -1,1 +1,5 @@
-console.info('React is cool');
+import App from './App';
+
+export default {
+  App,
+}
